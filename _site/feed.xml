@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Next Apps</title>
+    <description>Next Apps - Future of applications</description>
+    <link>http://nextapps.pl/</link>
+    <atom:link href="http://nextapps.pl/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Event Mobile App</title>
+        <description>&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;medium-4 medium-push-8 columns&quot;&gt;
+    &lt;div class=&quot;panel radius&quot;&gt;
+      &lt;div&gt;&lt;a&gt;polyconf.com&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=io.github.ionicpoland.polyconf&quot;&gt;Android Play&lt;/a&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
+
+
+
+&lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
+
+    &lt;div&gt;
+Evapp application for events and conferences. You can build and customize the application to an event. Attendees can check the schedule, the speakers’ bio, partners and sponsors in a simple way. The application can work in two modes with and without registration. You can send push notifications and use QR scanner for tickets.
+&lt;/div&gt;
+    &lt;div&gt;
+You can promote your conference  and cut the cost of mobile applications which are available on then main mobile platforms such as Android, iOS and WP8. Tell us your requirements and we will develop awesome apps for your business.
+&lt;/div&gt;
+
+  &lt;/div&gt;&lt;!-- /.medium-8.columns --&gt;
+&lt;/div&gt;
+&lt;!-- /.row --&gt;
+
+</description>
+        <pubDate>Fri, 29 May 2015 00:00:00 +0200</pubDate>
+        <link>http://nextapps.pl/mobile/EventApp/</link>
+        <guid isPermaLink="true">http://nextapps.pl/mobile/EventApp/</guid>
+      </item>
+    
+      <item>
+        <title>Hybrid Apps</title>
+        <description>&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;medium-4 medium-push-8 columns&quot;&gt;
+    &lt;div class=&quot;panel radius&quot;&gt;
+      &lt;div&gt;&lt;a&gt;centrum24.pl&lt;/a&gt;&lt;/div&gt;
+      &lt;div&gt;&lt;a&gt;m.bzwbk24.pl&lt;/a&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
+
+
+
+&lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
+
+    &lt;div&gt;
+For 11 years we were (and whole team of course) responsible for development of electronic banking apps. A lot of Java and C/C++ code, we changed app from EJB/JSP to Apache Wicket Framework and later to AngularJS. We were in mobile banking apps projects, tring to reuse our code base with other software house. We were pionieers of hybrid apps (&lt;b&gt;Ionic framework&lt;/b&gt;) for better CX and faster/better software delivery. 
+&lt;/div&gt;
+    &lt;hr /&gt;
+
+    &lt;div&gt;
+We created REST API for electronic banking apps and backends services
+&lt;/div&gt;
+    &lt;hr /&gt;
+
+    &lt;div&gt;
+In corporate enviroment it was always challenging
+&lt;blockquote&gt;one small step for [a] bank, one giant leap for developers.&lt;/blockquote&gt;
+&lt;/div&gt;
+
+  &lt;/div&gt;&lt;!-- /.medium-8.columns --&gt;
+&lt;/div&gt;
+&lt;!-- /.row --&gt;
+
+</description>
+        <pubDate>Thu, 28 May 2015 00:00:00 +0200</pubDate>
+        <link>http://nextapps.pl/banking/Banking/</link>
+        <guid isPermaLink="true">http://nextapps.pl/banking/Banking/</guid>
+      </item>
+    
+      <item>
+        <title>Ionic Framework</title>
+        <description>&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;medium-4 medium-push-8 columns&quot;&gt;
+    &lt;div class=&quot;panel radius&quot;&gt;
+      &lt;p&gt;&lt;a&gt;http://ionicpoland.github.io&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
+
+
+
+&lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
+
+    &lt;div&gt;
+Ionicpoland - the place where technology meets with business. We build a community for people who are enthusiastic about mobile hybrid applications and new modern backend based on cloud computing. We strongly believe in the potential of html5/js in the mobile world and we rethink mobile applications.  We want to connect specialists with business and promote innovative apps and projects in Poland.  That’s way we decided to promote ionic framework  which is built with passion by dryfico. 
+Say yes for mobile applications in the smart way and join &lt;a&gt;http://ionicpoland.github.io&lt;/a&gt;.
+&lt;/div&gt;
+
+  &lt;/div&gt;&lt;!-- /.medium-8.columns --&gt;
+&lt;/div&gt;
+&lt;!-- /.row --&gt;
+
+</description>
+        <pubDate>Wed, 27 May 2015 00:00:00 +0200</pubDate>
+        <link>http://nextapps.pl/development/Ionic/</link>
+        <guid isPermaLink="true">http://nextapps.pl/development/Ionic/</guid>
+      </item>
+    
+      <item>
+        <title>Citi Mobile Challenge</title>
+        <description>&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;medium-4 medium-push-8 columns&quot;&gt;
+    &lt;div class=&quot;panel radius&quot;&gt;
+      &lt;p&gt;&lt;a&gt;http://www.citimobilechallenge.com/&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
+
+&lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
+
+    &lt;h2 id=&quot;we-like-hackathons-and-challenges-on-citi-mobile-challenge-we-did-mobile-and-wearable-app-with-voice-interface-for-banking-travel&quot;&gt;We like hackathons and challenges, on citi mobile challenge we did mobile and wearable app with voice interface for banking, travel.&lt;/h2&gt;
+
+    &lt;h2 id=&quot;our-product-key-features&quot;&gt;Our product key features:&lt;/h2&gt;
+    &lt;li&gt;Enable Corporate Social Responsibility&lt;/li&gt;
+    &lt;li&gt;Creating Shared Value&lt;/li&gt;
+    &lt;li&gt;Security&lt;/li&gt;
+    &lt;li&gt;Easy in use&lt;/li&gt;
+    &lt;li&gt;Seamless integration with existing solution&lt;/li&gt;
+
+  &lt;/div&gt;&lt;!-- /.medium-8.columns --&gt;
+
+&lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
+
+    &lt;h2 id=&quot;more-info-on-citi-mobile-challenge-ahttpwwwcitimobilechallengecomblogpostidwarsaw-connectivitya&quot;&gt;More info on Citi Mobile Challenge &lt;a&gt;http://www.citimobilechallenge.com/blog/post/id/warsaw-connectivity&lt;/a&gt;&lt;/h2&gt;
+
+  &lt;/div&gt;&lt;!-- /.medium-8.columns --&gt;
+&lt;/div&gt;
+&lt;!-- /.row --&gt;
+
+</description>
+        <pubDate>Tue, 26 May 2015 00:00:00 +0200</pubDate>
+        <link>http://nextapps.pl/design/Citi/</link>
+        <guid isPermaLink="true">http://nextapps.pl/design/Citi/</guid>
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,14 @@
+- name: Twitter
+  url: http://twitter.com/michalolczak
+  class: icon-twitter
+  title: "News and friends"
+
+- name: Facebook
+  url: http://www.facebook.com/dzahanam
+  class: icon-facebook
+  title: "Friends and news"
+
+- name: GitHub
+  url: http://github.com/nextapps
+  class: icon-github
+  title: Our code
