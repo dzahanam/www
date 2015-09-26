@@ -12,7 +12,7 @@ widget-1:
     title: "Blog & Portfolio"
     url: 'blog'
     text: 'Our projects and hacks'
-    image: hackathon.png
+    image: battlecaffe.jpg
 widget-2:
     title: "Why us?"
     url: 'contact'
@@ -20,8 +20,8 @@ widget-2:
     image: ic_launcher.png
 widget-3:
     title: "Our vision"
-    url: '/'
-    text: 'In <em>NextApps</em> we think mobile. Out vision is data driven world with apps that helps us being better.'
+    url: 'getting-started'
+    text: 'In <em>NextApps</em> we think mobile. Our vision is data driven world with apps that helps us being better.'
     image: ionic400x400.png
 ---
 

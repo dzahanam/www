@@ -3,8 +3,124 @@
   <channel>
     <title>Next Apps</title>
     <description>Next Apps - Future of applications</description>
-    <link>http://nextapps.pl/</link>
-    <atom:link href="http://nextapps.pl/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://127.0.0.1:4000/</link>
+    <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>This is really going to disrupt everything</title>
+        <description>&lt;div class=&quot;row&quot;&gt;
+
+&lt;div class=&quot;medium-4 medium-push-8 columns&quot;&gt;
+    &lt;div class=&quot;panel radius&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://evapp.nextapps.pl&quot;&gt;Our Event application can use iBeacons:&lt;br /&gt; https://evapp.nextapps.pl&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
+
+&lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
+
+    &lt;div&gt;
+&lt;blockquote&gt;“iBeacon. This is really going to disrupt everything” - Tim O&#39;Reilly. &lt;/blockquote&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;/div&gt;
+    &lt;div&gt;
+Yes. It is true.  If you want to find another way to sell products, stay in touch with your customer and create a business model based on interactions, engagement, loyalty -you should use beacon in your business. Why to break your business model if you could simply build a mobile app for business?
+&lt;br /&gt;&lt;br /&gt;
+&lt;/div&gt;
+    &lt;div&gt;
+The answer is: because you should mix new technologies and trends with your domain:
+&lt;/div&gt;
+    &lt;div&gt;
+&lt;ul&gt;
+ &lt;li&gt;allow customers to &lt;b&gt;rediscover your products&lt;/b&gt; and services;&lt;/li&gt;
+ &lt;li&gt;locate a set of beacons in shops, commercial centers, events, sports facilities and branches;&lt;/li&gt;
+ &lt;li&gt;send &lt;b&gt;offers and discounts&lt;/b&gt; to customers when near a product&lt;/li&gt;
+ &lt;li&gt;offer coupons to customers after a purchase to share with their friends, thus encouraging others to visit during a sale or during a special event;&lt;/li&gt;
+ &lt;li&gt;shoppers can tag a product for a friend who could not find it or was looking for it;&lt;/li&gt;
+ &lt;li&gt;combine &lt;b&gt;social with beacons&lt;/b&gt; and use promotions, contests and challenges to get your loyal customers, to bring in new people or even make it easier for them to promote the store, i.e. they get a higher discount if they invite and bring new customers;&lt;/li&gt;
+ &lt;li&gt;better &lt;b&gt;networking&lt;/b&gt; at conferences and events using beacons for location and info;&lt;/li&gt;
+ &lt;li&gt;&lt;b&gt;assistance&lt;/b&gt; for disabled or blind people. Use beacons and voice activated directions or alerts to help someone that is visually impaired.&lt;/li&gt;
+
+&lt;br /&gt;
+
+&lt;!-- /.medium-8.columns --&gt;
+&lt;!-- /.row --&gt;
+&lt;/ul&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/div&gt;
+</description>
+        <pubDate>Wed, 09 Sep 2015 00:00:00 +0200</pubDate>
+        <link>http://127.0.0.1:4000/event/Beacon/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/event/Beacon/</guid>
+      </item>
+    
+      <item>
+        <title>PolyConf 2015 Poznań</title>
+        <description>&lt;div class=&quot;row&quot;&gt;
+
+&lt;div class=&quot;medium-4 medium-push-8 columns&quot;&gt;
+    &lt;div class=&quot;panel radius&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.polyconf.com&quot;&gt;http://www.polyconf.com&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
+
+&lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
+
+    &lt;div&gt;
+PolyConf is a three-day, single track, multi-disciplinary conference on advanced technologies
+for programmers interested in polyglot approach to software development.
+&lt;/div&gt;
+    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;div&gt;
+This time we gave attendees app for iPhone/iPad, Android phones and tablets and also Windows Phones. We also tested our app on Android smartwatch :-)
+&lt;/div&gt;
+    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;div&gt;
+It was great experience and feedback is very important for us.
+&lt;/div&gt;
+
+  &lt;/div&gt;&lt;!-- /.medium-8.columns --&gt;
+&lt;/div&gt;
+&lt;!-- /.row --&gt;
+</description>
+        <pubDate>Thu, 02 Jul 2015 00:00:00 +0200</pubDate>
+        <link>http://127.0.0.1:4000/event/Polyconf/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/event/Polyconf/</guid>
+      </item>
+    
+      <item>
+        <title>BattleHack Berlin</title>
+        <description>&lt;div class=&quot;row&quot;&gt;
+
+&lt;div class=&quot;medium-4 medium-push-8 columns&quot;&gt;
+    &lt;div class=&quot;panel radius&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://2015.battlehack.org/&quot;&gt;https://2015.battlehack.org/&lt;/a&gt;&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
+
+&lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
+
+    &lt;div&gt;
+We make Simplicity app using BrainTree API for easy voice payments. It was our idea to develope app for people with problem using standard smartphone interface.
+&lt;/div&gt;
+    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;div&gt;
+We prepared our app for people:
+&lt;ul&gt;
+ &lt;li&gt;visually impaired&lt;/li&gt;
+ &lt;li&gt;car drivers or in other situation when you can speak but not touch ;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+    &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+    &lt;div&gt;
+IoT, Wearables and voice inteface is quite interesting area for apps because it can give us more users than sticking to smart phones. It&#39;s also important that we believe that social responsibility could be key factor for corporates to use voice interface in new digital world apps.
+&lt;/div&gt;
+
+  &lt;/div&gt;&lt;!-- /.medium-8.columns --&gt;
+&lt;/div&gt;
+&lt;!-- /.row --&gt;
+</description>
+        <pubDate>Mon, 29 Jun 2015 00:00:00 +0200</pubDate>
+        <link>http://127.0.0.1:4000/hackathon/BattleHack/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/hackathon/BattleHack/</guid>
+      </item>
     
       <item>
         <title>Event Mobile App</title>
@@ -33,8 +149,8 @@ You can promote your conference  and cut the cost of mobile applications which a
 
 </description>
         <pubDate>Fri, 29 May 2015 00:00:00 +0200</pubDate>
-        <link>http://nextapps.pl/mobile/EventApp/</link>
-        <guid isPermaLink="true">http://nextapps.pl/mobile/EventApp/</guid>
+        <link>http://127.0.0.1:4000/mobile/EventApp/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/mobile/EventApp/</guid>
       </item>
     
       <item>
@@ -72,8 +188,8 @@ In corporate enviroment it was always challenging
 
 </description>
         <pubDate>Thu, 28 May 2015 00:00:00 +0200</pubDate>
-        <link>http://nextapps.pl/banking/Banking/</link>
-        <guid isPermaLink="true">http://nextapps.pl/banking/Banking/</guid>
+        <link>http://127.0.0.1:4000/banking/Banking/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/banking/Banking/</guid>
       </item>
     
       <item>
@@ -100,8 +216,8 @@ Say yes for mobile applications in the smart way and join &lt;a&gt;http://ionicp
 
 </description>
         <pubDate>Wed, 27 May 2015 00:00:00 +0200</pubDate>
-        <link>http://nextapps.pl/development/Ionic/</link>
-        <guid isPermaLink="true">http://nextapps.pl/development/Ionic/</guid>
+        <link>http://127.0.0.1:4000/development/Ionic/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/development/Ionic/</guid>
       </item>
     
       <item>
@@ -136,8 +252,8 @@ Say yes for mobile applications in the smart way and join &lt;a&gt;http://ionicp
 
 </description>
         <pubDate>Tue, 26 May 2015 00:00:00 +0200</pubDate>
-        <link>http://nextapps.pl/design/Citi/</link>
-        <guid isPermaLink="true">http://nextapps.pl/design/Citi/</guid>
+        <link>http://127.0.0.1:4000/design/Citi/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/design/Citi/</guid>
       </item>
     
   </channel>
